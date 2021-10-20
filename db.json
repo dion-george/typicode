@@ -1,98 +1,156 @@
-{"value":{
-  "can_attend_class": {
-    "reason": "",
-    "status": true
-  },
-  "can_have_courseless_slot": false,
-  "churn_comments": "",
-  "churn_date": 0,
-  "churn_reason": "",
-  "class_end_date": null,
-  "class_start_date": null,
-  "country": "Bangladesh",
-  "country_code": "880",
-  "courses": [
-    {
-      "access_type": "WITH_TEACHER",
-      "activated_by_teacher": false,
-      "class_pause_date": null,
-      "class_ratio": 2,
-      "class_restart_date": 1617733800,
-      "class_start_date": 1617733800,
-      "classes_balance": 90,
-      "classes_purchased": 96,
-      "course_activation_status": "awaiting_teacher_activation",
-      "course_code": "USSC",
-      "course_id": "e6dccee4-0fd2-11eb-9367-02420a00ca65",
-      "course_name": "US Math",
-      "course_type": "math",
-      "id": "c8824d90-9707-11eb-8768-02420affb116",
-      "is_demo": false,
-      "is_foundation": false,
-      "primary_teacher_id": "2b0b9468-d6d4-11e8-9bfb-02420a000032",
-      "slot_preferences": {
-        "start_date": 622781706,
-        "day_time_map": {
-          "Fri": [
-            2,
-            15
-          ],
-          "Mon": [
-            11,
-            13,
-            16
-          ],
-          "Sat": [
-            10
-          ],
-          "Sun": [],
-          "Thu": [
-            11,
-            14
-          ],
-          "Tue": [
-            12,
-            14
-          ],
-          "Wed": []
-        }
+{
+  "value": {
+    "categories": [
+      {
+        "name": "school math",
+        "completed_percentage": 80,
+        "theme": {
+          "color": "#FFBA07",
+          "border_color": "#D68100",
+          "plus_scattered_color": "#995200",
+          "image_url": "https://static.qumath.in/static/oneapp/shell/d99ba2bb3c913be77092c3ff6211ffb3ede531df__plus_temp.png"
+        },
+        "packs": [
+          {
+            "name": "Algebra",
+            "completed_percentage": 30,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              },
+              {
+                "name": "Add and subtract expressions",
+                "completed_percentage": 10
+              }
+            ]
+          },
+          {
+            "name": "Series",
+            "completed_percentage": 60,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              },
+              {
+                "name": "Add and subtract expressions",
+                "completed_percentage": 10
+              },
+              {
+                "name": "Substitution",
+                "completed_percentage": 0
+              }
+            ]
+          },
+          {
+            "name": "Factors & primes",
+            "completed_percentage": 60,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              }
+            ]
+          }
+        ]
       },
-      "source": "LEAP",
-      "state": "ACTIVE",
-      "student_course_fee_id": "c5d0d03c-970a-11eb-9e3a-02420affb116",
-      "student_id": "61ded4ca-94ae-11eb-8e81-02420a010e0c",
-      "validity_till_date": 1633545000
-    }
-  ],
-  "created_on_ts": 1617476225.329574,
-  "demo_banner_state": "",
-  "email": "e.9444494444@gmail.com",
-  "event_source": "",
-  "first_name": "e",
-  "gender": "MALE",
-  "grade": "3",
-  "id": "61ded4ca-94ae-11eb-8e81-02420a010e0c",
-  "is_app_timeline_visited": false,
-  "is_demo": true,
-  "is_duplicate": false,
-  "is_hybrid": false,
-  "last_name": "e",
-  "leap_paid": true,
-  "name": "e e",
-  "parent_name": "2",
-  "parent_service_id": null,
-  "phone": "9444494444",
-  "profile_pic_url": "",
-  "program_id": "",
-  "source": "ADMIN",
-  "state": "ACT",
-  "student_id": "61ded4ca-94ae-11eb-8e81-02420a010e0c",
-  "student_service_id": null,
-  "student_type": "STUDENT",
-  "trial_end_date_ts": 1618081025.329574,
-  "trial_type": "",
-  "username": "e.9444494444",
-  "electives_enabled": true,
-  "stream_switcher_enabled": true
-}
+      {
+        "name": "Mental aptitude",
+        "completed_percentage": 30,
+        "theme": {
+          "color": "#FF7E3B",
+          "border_color": "#DA5107",
+          "plus_scattered_color": "#9E2F00",
+          "image_url": "https://static.qumath.in/static/oneapp/shell/1a6e42d7982726bf26f1d201bebaead7de5254bb__cube_temp.png"
+        },
+        "packs": [
+          {
+            "name": "Factors & primes",
+            "completed_percentage": 60,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Data science",
+        "completed_percentage": 60,
+        "theme": {
+          "color": "#ED6CEF",
+          "border_color": "#B038B2",
+          "plus_scattered_color": "#850F85",
+          "image_url": "https://static.qumath.in/static/oneapp/shell/20ba59132b1f73466554f621ffeb4ef6b715a81e__ramp_temp.png"
+        },
+        "packs": [
+          {
+            "name": "Factors & primes",
+            "completed_percentage": 60,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Coding",
+        "completed_percentage": 100,
+        "theme": {
+          "color": "#1EB5F0",
+          "border_color": "#0A80D5",
+          "plus_scattered_color": "#0A47C2",
+          "image_url": "https://static.qumath.in/static/oneapp/shell/d905c08d4088d9772c377d88b9eecd0fba927a83__greater_temp.png"
+        },
+        "packs": [
+          {
+            "name": "Factors & primes",
+            "completed_percentage": 60,
+            "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
+            "threads": [
+              {
+                "name": "Framing expressions",
+                "completed_percentage": 90
+              },
+              {
+                "name": "Solving One-Variable Linear Equations",
+                "completed_percentage": 100
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
