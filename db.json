@@ -2,6 +2,7 @@
   "value": {
     "categories": [
       {
+        "id": "category_id1",
         "name": "School math",
         "completed_percentage": 80,
         "theme": {
@@ -12,61 +13,74 @@
         },
         "packs": [
           {
+            "id": "pack_id1",
             "name": "Algebra",
             "completed_percentage": 30,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                 "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               },
               {
+                 "id": "thread_id3",
                 "name": "Add and subtract expressions",
                 "completed_percentage": 10
               },
               {
+                 "id": "thread_id4",
                 "name": "Add and subtract expressions",
                 "completed_percentage": 0
               }
             ]
           },
           {
+            "id": "pack_id2",
             "name": "Series",
             "completed_percentage": 60,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               },
               {
+                "id": "thread_id3",
                 "name": "Add and subtract expressions",
                 "completed_percentage": 10
               },
               {
+                "id": "thread_id4",
                 "name": "Substitution",
                 "completed_percentage": 0
               }
             ]
           },
           {
+            "id": "pack_id3",
             "name": "Factors & primes",
             "completed_percentage": 60,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               }
@@ -75,6 +89,7 @@
         ]
       },
       {
+        "id": "category_id2",
         "name": "Mental aptitude",
         "completed_percentage": 30,
         "theme": {
@@ -85,15 +100,18 @@
         },
         "packs": [
           {
+            "id": "pack_id1",
             "name": "Factors & primes",
             "completed_percentage": 60,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               }
@@ -102,6 +120,7 @@
         ]
       },
       {
+        "id": "category_id3",
         "name": "Data science",
         "completed_percentage": 60,
         "theme": {
@@ -112,15 +131,18 @@
         },
         "packs": [
           {
+            "id": "pack_id1",
             "name": "Factors & primes",
             "completed_percentage": 60,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               }
@@ -129,6 +151,7 @@
         ]
       },
       {
+        "id": "category_id4",
         "name": "Coding",
         "completed_percentage": 100,
         "theme": {
@@ -139,15 +162,18 @@
         },
         "packs": [
           {
+            "id": "pack_id1",
             "name": "Factors & primes",
             "completed_percentage": 60,
             "image_url": "https://static.qumath.in/static/oneapp/shell/371de699661e788a01fc313666f37024bb2569bf__red_planet.png",
             "threads": [
               {
+                "id": "thread_id1",
                 "name": "Framing expressions",
                 "completed_percentage": 90
               },
               {
+                "id": "thread_id2",
                 "name": "Solving One-Variable Linear Equations",
                 "completed_percentage": 100
               }
